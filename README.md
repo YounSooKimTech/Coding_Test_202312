@@ -37,6 +37,10 @@ Additionally, consider including other influential variables, such as living are
 Based on findings from previous studies, residing in an urban area was associated with a twofold increase in vaccination rates. 
 Therefore, these demographic variables should be considered as covariates in the future analysis.
 
+## References
+- Saelee, R., Zell, E., Murthy, B. P., Castro-Roman, P., Fast, H., Meng, L., ... & Murthy, N. (2022). Disparities in COVID-19 vaccination coverage between urban and rural counties—United States, December 14, 2020–January 31, 2022. Morbidity and Mortality Weekly Report, 71(9), 335.
+
+- Lomeli, A., Escoto, A. A., Reyes, B., Burola, M. L. M., Tinoco-Calvillo, S., Villegas, I., ... & Seifert, M. (2023). Factors associated with COVID-19 vaccine uptake in a US/Mexico border community: demographics, previous influenza vaccination, and trusted sources of health information. Frontiers in Public Health, 11.
 
 
 
